@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 2 resources" deleteContents="true" description="Delete 2 resources" element1="/twitter-to-kafka-service" element2="/Microservices-Kafka" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1633604900201"/>
+</session>
